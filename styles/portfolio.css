@@ -53,3 +53,29 @@ nav a{
 .banner .profile-pic{
     width: 500px;
 }
+
+/* main section styles */
+main{
+    max-width: 1140px;
+    background-color: #fff8f3;
+   margin: 0 auto;
+
+}
+.me{
+    text-align: center;
+}
+.about{
+    text-align: center;
+
+}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+.info-description{
+    font-weight: bold;
+}
